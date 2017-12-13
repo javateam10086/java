@@ -2,11 +2,12 @@ package team;
 
 import java.util.ArrayList;
 
-public class MyDataOP implements DataOP{
+public class MyDataOP implements team.DataOP {
 
 	@Override
 	public float Average(ArrayList<?> list) {
 		// TODO 自动生成的方法存根
+		hashCode();
 		return 0;
 	}
 
