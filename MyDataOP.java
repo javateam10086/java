@@ -7,8 +7,6 @@ public class MyDataOP implements team.DataOP {
 	@Override
 	public float Average(ArrayList<?> list) {
 		// TODO 自动生成的方法存根
-		hashCode();
-		hashCode();
 		return 0;
 	}
 
